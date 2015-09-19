@@ -33,5 +33,5 @@ Credits
 -------
 
 Idea inspired from a post on quora: http://www.quora.com/What-are-the-best-Python-scripts-youve-ever-written.
-Coincedently the same post inspired me!! Instead of writing I searched for the code first ;).
+Coincedently the same post inspired me!! Instead of writing I searched for the code first ;)
 The code in that post uses FQL which is deprecated after v2.1. This implementation uses Facebook Graph API.
